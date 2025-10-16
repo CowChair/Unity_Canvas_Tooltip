@@ -5,10 +5,13 @@
 
 ## Overview
 
-This project is a single script example for a responsive tooltip. For it be responsive, the tooltip uses the cursor's current quadrant to offset the Rect Transform's anchored Position.
+This project is a single script example for a responsive tooltip. For it to be responsive, the tooltip uses the cursor's current quadrant to offset the Rect Transform's anchored Position.
 
 ## Setup
 
+For this example, I used an empty Rect Transform and a couple of visual components. 
+
+For the script to work correctly, ensure it's on the appropriate parent object and has centered anchor points.
 
 ## Code
 I've provided a sample project, but this is the script in its entirety.
