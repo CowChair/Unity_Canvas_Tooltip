@@ -9,9 +9,7 @@ This project is a single script example for a responsive tooltip. For it to be r
 
 ## Setup
 
-For this example, I used an empty Rect Transform and a couple of visual components. 
-
-For the script to work correctly, ensure it's on the appropriate parent object and has centered anchor points.
+For the project example, I used an empty Rect Transform and a couple of visual components. For the script to work correctly, ensure it's on the appropriate parent object and has centered anchor points.
 
 ## Code
 I've provided a sample project, but this is the script in its entirety.
