@@ -1,7 +1,7 @@
 # Unity Responsive Tooltip
 
 ## Video (YouTube - Responsive Tooltip in Unity)
-[![Responsive Tooltip](https://img.youtube.com/vi/#00mWvSpmFKg#/0.jpg)](https://www.youtube.com/watch?v=00mWvSpmFKg)
+[![Responsive Tooltip](https://img.youtube.com/vi/00mWvSpmFKg/0.jpg)](https://www.youtube.com/watch?v=00mWvSpmFKg)
 
 ## Overview
 
