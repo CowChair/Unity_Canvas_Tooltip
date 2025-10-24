@@ -53,6 +53,10 @@ public class Tooltip : MonoBehaviour
 }
 ```
 
+## Approach
+
+The idea behind this approach is that it simply offsets the Tooltip's Rect Transform, keeping the cursor between it and the edge of the window.
+
 ## Important Bits
 
 This code rounds the cursor position to either `0` or `1`.
